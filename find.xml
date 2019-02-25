@@ -1,7 +1,7 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="Project 'test'" />
-    <option name="defaultScopeName" value="Project 'test'" />
-    <option name="SEARCH_SCOPE" value="Project 'test'" />
+    <option name="customScope" value="File '...\config.json [test]'" />
+    <option name="defaultScopeName" value="File '...\config.json [test]'" />
+    <option name="SEARCH_SCOPE" value="File '...\config.json [test]'" />
   </component>
 </application>
