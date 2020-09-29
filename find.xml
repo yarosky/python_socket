@@ -1,7 +1,7 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="File '...\terraform\vpc.tf [aws]'" />
-    <option name="defaultScopeName" value="File '...\terraform\vpc.tf [aws]'" />
-    <option name="SEARCH_SCOPE" value="File '...\terraform\vpc.tf [aws]'" />
+    <option name="customScope" value="All Places" />
+    <option name="defaultScopeName" value="All Places" />
+    <option name="SEARCH_SCOPE" value="All Places" />
   </component>
 </application>
